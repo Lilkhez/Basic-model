@@ -1,2 +1,4 @@
 def sit():
-    pass
+    return True
+
+print("Hello world!")
